@@ -1,0 +1,11 @@
+body {
+  background-image: linear-gradient(to right, red, blue);
+}
+
+.b-round {
+  background-image: linear-gradient(
+    to left,
+    rgb(255, 0, 221),
+    rgb(255, 238, 0)
+  );
+}
